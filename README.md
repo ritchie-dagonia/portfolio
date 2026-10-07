@@ -4,4 +4,7 @@ Le code de mon site personnel, [deepsafe.fr](https://deepsafe.fr/) : HTML, CSS, 
 
 Je le garde volontairement simple. C'est un exercice de sobriété autant qu'une vitrine : responsive à 400 px, accessible au clavier, pas une image de plus que nécessaire.
 
-Pour le lancer en local : ouvrir `index.html` dans un navigateur. C'est tout.
+
+Pour le lancer en local : ouvrir `index.html` dans un navigateur.
+et vous pourrez en profiter.
+C'est tout.
